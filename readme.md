@@ -38,6 +38,7 @@ Angie and John Neave
 ## Supporters
 Adam Gilmore  
 Bret Colloff  
+David Shrive    
 Sarah Cooper-Pinchbeck
 
 ## Followers
@@ -46,7 +47,6 @@ Alister Perrott
 Andy Batey  
 Cara S.  
 Dave Booth  
-David Shrive  
 Eva Blake  
 John Thurmond  
 Mandy Berry  
