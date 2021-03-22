@@ -11,7 +11,7 @@ Top-bottom is preffered from a performance perspective, an explanation for which
 ## Instructions
 To get this up and running, install Docker on your Raspberry Pi, then grab the image using run:
 
-`docker pull kneave/simple-streameye-streamer`
+`docker pull neaveeng/simple-streameye-streamer`
 
 Once pulled, run using the following command:
 
