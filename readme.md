@@ -15,11 +15,12 @@ To get this up and running, install Docker on your Raspberry Pi, then grab the i
 
 Once pulled, run using the following command:
 
-`docker run -d --privileged -p 8080:8080 --device=/dev/vchiq -e ARGS=" -h 480 -w 320 -r 15 -3d top-bottom" --name streameye neaveeng/simple-streameye-streamer`
+`docker run -d --privileged -p 8080:8080 --device=/dev/vchiq -e ARGS=" -h 840 -w 640 -r 15 -q 25 -3d top-bottom" --name streameye neaveeng/simple-streameye-st
+reamer`
 
 In the above example the arguments are:
 
-`-h 480 -w 240 -r 15 -3d top-bottom`
+`-h 840 -w 640 -r 15 -q 25 -3d top-bottom`
 
 These are required:
 `h (height, pixels), w (width, pixels), r (FPS)`
@@ -34,12 +35,15 @@ This project and others like it are made possible by the kind support of my [Pat
 
 ## Patrons
 Angie and John Neave
+Bodger
 
 ## Supporters
 Adam Gilmore  
 Bret Colloff  
 David Shrive    
 Sarah Cooper-Pinchbeck
+Pheonix Labs
+Mark Long
 
 ## Followers
 Alexander Gutenkunst  
